@@ -1,5 +1,7 @@
 ### Hi there 👋 Blog:https://gocos.cn
 
+- 🌱 一个什么都只会一点点小白
+
 <!--
 **icrons/icrons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
